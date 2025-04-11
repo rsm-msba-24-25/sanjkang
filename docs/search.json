@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sanjit Kangovi",
+    "section": "",
+    "text": "I’m passionate about using data and technology to solve real-world business problems. Throughout my journey, I’ve been fortunate to work on projects that span multiple industries—each experience teaching me something new and helping me grow.\nDuring my time as a Power BI Developer, I had the opportunity to work with clients in finance, logistics, and other fields, building customized dashboards that made data more accessible and decision-making more informed. It was exciting to see how data could directly impact business outcomes, and I enjoyed working closely with clients to make that happen.\nAs a Co-founder of Minics Digital, I dove into the world of digital marketing and client management. I worked with small businesses to craft personalized strategies that helped them build their online presence. Leading multiple teams and managing projects end-to-end was challenging, but watching these startups grow made it all worth it.\nRight now, I’m eager to take on new opportunities where I can combine my data analytics skills with my passion for client-focused problem-solving. I’m always looking forward to the next challenge!"
+  },
+  {
+    "objectID": "resume/resume.html",
+    "href": "resume/resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "{{&lt; pdf resume/resume.pdf width=100% height=800 &gt;}}"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Download PDF file."
+  }
+]
