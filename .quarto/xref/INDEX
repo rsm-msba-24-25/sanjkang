@@ -10,5 +10,20 @@
   },
   "resume.qmd": {
     "resume.html": "fb0603a5"
+  },
+  "blog.qmd": {
+    "blog.html": "576dd96a"
+  },
+  "blog/project1/index.qmd": {
+    "index.html": "137049c9"
+  },
+  "blog/project3/index.qmd": {
+    "index.html": "db2a064f"
+  },
+  "blog/project2/index.qmd": {
+    "index.html": "7d104836"
+  },
+  "blog/project4/index.qmd": {
+    "index.html": "8027b253"
   }
 }
